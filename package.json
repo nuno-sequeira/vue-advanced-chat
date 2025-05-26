@@ -1,8 +1,8 @@
 {
-	"name": "vue-advanced-chat",
+	"name": "vue-advanced-chat-different-emoji-picker-position",
 	"version": "2.0.9",
 	"license": "MIT",
-	"description": "A beautiful chat rooms component made with Vue.js - compatible with Vue, React & Angular",
+	"description": "This is just a fork of the original vue-advanced-chat package. The only difference is that the emoji picker is positioned differently.",
 	"author": {
 		"email": "antoindupontdev@gmail.com",
 		"name": "Antoine Dupont"
@@ -26,10 +26,10 @@
 		"url": "https://github.com/advanced-chat/vue-advanced-chat/issues"
 	},
 	"homepage": "https://github.com/advanced-chat/vue-advanced-chat#readme",
-	"main": "./dist/vue-advanced-chat.umd.js",
-	"module": "./dist/vue-advanced-chat.es.js",
-	"unpkg": "./dist/vue-advanced-chat.umd.js",
-	"jsdelivr": "./dist/vue-advanced-chat.umd.js",
+	"main": "./dist/vue-advanced-chat-different-emoji-picker-position.umd.js",
+	"module": "./dist/vue-advanced-chat-different-emoji-picker-position.es.js",
+	"unpkg": "./dist/vue-advanced-chat-different-emoji-picker-position.umd.js",
+	"jsdelivr": "./dist/vue-advanced-chat-different-emoji-picker-position.umd.js",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
