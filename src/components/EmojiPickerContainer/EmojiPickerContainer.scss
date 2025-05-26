@@ -10,10 +10,10 @@
 	.vac-emoji-picker {
 		position: absolute;
 		z-index: 9999;
-		height: 320px;
-		bottom: 32px;
-		right: -79px;
-		width: 290px;
+		height: 320px !important;
+		bottom: 32px !important;
+		right: -79px !important;
+		width: 290px !important;
 		padding-top: 4px;
 		overflow: scroll;
 		box-sizing: border-box;
