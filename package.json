@@ -1,6 +1,6 @@
 {
 	"name": "vue-advanced-chat-different-emoji-picker-position",
-	"version": "2.0.9-fork-2",
+	"version": "2.0.9-fork-3",
 	"license": "MIT",
 	"description": "This is just a fork of the original vue-advanced-chat package. The only difference is that the emoji picker is positioned differently.",
 	"author": {
